@@ -1,0 +1,30 @@
+{
+  "name": "api-challenge-java",
+  "version": "1.0.0",
+  "description": "API challenge to solve in code-check cli or challengeViewer using spring framework",
+  "main": "index.js",
+  "dependencies": {
+    "api-first-spec": "^0.2.9",
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha spec/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukeshni/api-challenge-java.git"
+  },
+  "keywords": [
+    "java",
+    "api",
+    "spring"
+  ],
+  "author": "Givery Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukeshni/api-challenge-java/issues"
+  },
+  "homepage": "https://github.com/sukeshni/api-challenge-java#readme"
+}
